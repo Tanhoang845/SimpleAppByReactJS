@@ -14,7 +14,7 @@ function Navigation(){
 
     if(showMenu){
         menu = <div className="bg-white fixed top-0 left-0 w-4/5 h-full z-50">
-            <span className="font-bold">This is menu</span>
+            <span className="font-bold">MENU</span>
 
             <ul>
             <li>
